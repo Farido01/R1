@@ -2,5 +2,5 @@
 #include<vector>
 using namespace std;
 int main(){
-    cout<<"Hello worldd!";
+    cout<<"Hello world!";
 }
